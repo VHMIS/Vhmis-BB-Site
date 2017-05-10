@@ -1,0 +1,22 @@
+{
+  "name": "vhmis-bb-site",
+  "version": "1.0.0",
+  "description": "Static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VHMIS/Vhmis-BB-Site.git"
+  },
+  "keywords": [
+    "static-website"
+  ],
+  "author": "Le Nhat Anh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VHMIS/Vhmis-BB-Site/issues"
+  },
+  "homepage": "https://github.com/VHMIS/Vhmis-BB-Site#readme"
+}
