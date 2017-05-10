@@ -1,2 +1,3 @@
 # Vhmis-BB-Site
-Statis site generator
+Static site generator, extend for current Jekyll projects
+Template: Vhmis-BB
